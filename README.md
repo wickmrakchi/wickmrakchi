@@ -1,8 +1,8 @@
 <div align="center">
 
-  ![Profile Icon](https://github.com/wickmrakchi.png) <!-- Your GitHub profile picture -->
+  ![Profile Icon](https://github.com/wickmrakchi.png)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+%26+Game+Developer;UI%2FUX+Designer;Open-Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;UI%2FUX+Designer;Open-Source+Contributor)](https://git.io/typing-svg)
 
   ### 🌍 Find Me Around The Web
 
@@ -14,15 +14,16 @@
         </a>
       </td>
       <td align="center" width="96">
-  <a href="https://www.instagram.com/mrakchi_5/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</td>
-<td align="center" width="96">
-  <a href="https://discord.gg/wicks">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-  </a>
-</td>
+        <a href="https://www.instagram.com/mrakchi_5/">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+        </a>
+      </td>
+      <td align="center" width="96">
+        <a href="https://discord.gg/wicks">
+          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+        </a>
+      </td>
+    </tr>
   </table>
 
   <details open>
