@@ -2,7 +2,7 @@
 
   ![Profile Icon](https://github.com/wickmrakchi.png)
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+GitHub+Profile!;Full-Stack+Developer;UI%2FUX+Designer;Open-Source+Contributor)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;Front-End+Developer)](https://git.io/typing-svg)
 
   ### 🌍 Find Me Around The Web
 
