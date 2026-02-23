@@ -1,63 +1,147 @@
 <div align="center">
 
-  ![Profile Icon](https://github.com/wickmrakchi.png)
+  <!-- Hero Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20Mrakchi&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%"/>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&width=435&lines=Welcome+to+my+Github+profile!;Front-End+Developer)](https://git.io/typing-svg)
+  <!-- Profile Image with Glow Effect -->
+  <img src="https://github.com/wickmrakchi.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5); margin-top: -50px;"/>
 
-  ### 🌍 Find Me Around The Web
+  <!-- Typing Animation -->
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366f1&center=true&vCenter=true&width=max-content&lines=Full-Stack+Developer;UI/UX+Designer;Open-Source+Contributor;Building+Digital+Experiences" alt="Typing SVG"/>
+  </a>
+
+  <!-- Social Links -->
+  <p>
+    <a href="https://github.com/wickmrakchi">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat" alt="GitHub"/>
+    </a>
+    <a href="https://www.instagram.com/mrakchi_5/">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat" alt="Instagram"/>
+    </a>
+    <a href="https://discord.gg/wicks">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat" alt="Discord"/>
+    </a>
+    <a href="mailto:mrakchi@example.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat" alt="Email"/>
+    </a>
+  </p>
+
+  <!-- GitHub Stats -->
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=wickmrakchi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickmrakchi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1" height="180" alt="Top Languages"/>
+  </p>
+  
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickmrakchi&theme=react&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
+  </p>
+
+  <!-- GitHub Trophy -->
+  <p align="center">
+    <img src="https://github-profile-trophy.vercel.app/?username=wickmrakchi&theme=radical&no-frame=true&title=Commits,Issues,PRs,Reviews,Stars,Followers,Multi-language" alt="GitHub Trophy"/>
+  </p>
+
+  <br/>
+
+  <!-- About Me Section -->
+  <details>
+    <summary><h2>📖 About Me</h2></summary>
 
   <table>
     <tr>
-      <td align="center" width="96">
-        <a href="https://github.com/wickmrakchi">
-          <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-        </a>
+      <td valign="top" width="50%">
+        
+> **Hi, I'm Mrakchi** – A passionate Full-Stack Developer and UI/UX Designer from somewhere in the world.  
+> I craft beautiful, functional digital experiences and contribute to open-source projects.
+
+### 🌟 What I Do
+- 🖥️ Build responsive web applications
+- 🎨 Design intuitive user interfaces
+- 🤖 Create Discord bots and automation tools
+- 📚 Continuously learn and explore new technologies
+
+### 🎯 Core Philosophy
+```
+javascript
+const developer = {
+  mindset: "Code is poetry",
+  goal: "Create impactful digital solutions",
+  approach: "Clean, efficient, and user-centered",
+  learning: "Never stop growing"
+};
+```
+
+### 🗣️ Languages
+| Language | Level |
+|----------|-------|
+| Arabic | Native |
+| English | Professional |
+| French | Intermediate |
+
       </td>
-      <td align="center" width="96">
-        <a href="https://www.instagram.com/mrakchi_5/">
-          <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-        </a>
-      </td>
-      <td align="center" width="96">
-        <a href="https://discord.gg/wicks">
-          <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
-        </a>
+      <td valign="top" width="50%">
+        
+### 🛠️ Tech Stack
+
+**Frontend**
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,js,ts&perline=5" alt="Frontend Skills"/>
+</p>
+
+**Backend & Database**
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,php&perline=5" alt="Backend Skills"/>
+</p>
+
+**Tools & Technologies**
+<p>
+  <img src="https://skillicons.dev/icons?i=git,vscode,github,figma,npm,vercel,netlify&perline=7" alt="Tools"/>
+</p>
+
       </td>
     </tr>
   </table>
 
-  <details open>
-    <summary><h2>🛠️ Technologies & Skills</h2></summary>
+  </details>
 
-  ### 💻 Programming Languages
-  [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)](#)
-  [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-  [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white&labelColor=0D1117)](#)
+  <!-- Featured Projects -->
+  <details>
+    <summary><h2>🚀 Featured Projects</h2></summary>
 
-  ### 🎨 Frontend
-  [![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
-  [![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](#)
-  [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)](#)
-  [![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)](#)
-
-  ### ⚙️ Backend
-  [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](#)
-  [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
-  [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-  [![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](#)
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [Project Name](link) | Brief description of the project | React, Node.js, MongoDB |
+| [Project Name](link) | Brief description of the project | HTML, CSS, JavaScript |
+| [Project Name](link) | Brief description of the project | TypeScript, Tailwind |
 
   </details>
 
-  <details open>
-    <summary><h2>👨‍💻 About Me</h2></summary>
+  <!-- GitHub Activity Graph -->
+  <details>
+    <summary><h2>📊 GitHub Activity</h2></summary>
 
-  > Hi, I’m **Mrakchi** – Full-Stack & Web Developer, UI/UX Designer, Open-Source Contributor.  
-  > I build web apps, bots, and creative projects while learning new technologies constantly.
+  <img src="https://github-activity-graph.vercel.app/graph?username=wickmrakchi&theme=react&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
 
-  ### 🌟 Core Skills
-  ```javascript
-  const skills = {
-    development: ['Full-Stack', 'UI/UX Design'],
-    languages: ['Arabic', 'English', 'French'],
-    tools: ['Git', 'VS Code']
-  };
+  </details>
+
+  <!-- Footer -->
+  <br/>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=wickmrakchi&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views"/>
+  </p>
+
+  <p>
+    <em>"First, solve the problem. Then, write the code." – John Johnson</em>
+  </p>
+
+  <p align="center">
+    <strong>⭐ From wickmrakchi with passion</strong>
+  </p>
+
+  <p align="center">
+    <img src="https://img.shields.io/badge/Made%20with%20%E2%9D%A4%20by-Mrakchi-6366f1?style=flat&logo=heart" alt="Made with love"/>
+  </p>
+
+</div>
