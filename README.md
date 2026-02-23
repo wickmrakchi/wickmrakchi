@@ -9,7 +9,7 @@
   <!-- Typing Animation -->
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366f1&center=true&vCenter=true&width=max-content&lines=Full-Stack+Developer;UI/UX+Designer;Open-Source+Contributor;Building+Digital+Experiences" alt="Typing SVG"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366f1&center=true&vCenter=true&width=max-content&lines=Full-Stack+Developer%3BUI%2FUX+Designer%3BOpen-Source+Contributor%3BBuilding+Digital+Experiences" alt="Typing SVG"/>
   </a>
 
   <!-- Social Links -->
@@ -30,17 +30,17 @@
 
   <!-- GitHub Stats -->
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wickmrakchi&show_icons=true&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="180" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickmrakchi&layout=compact&theme=react&hide_border=true&bg_color=0d1117&title_color=6366f1" height="180" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=wickmrakchi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickmrakchi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" height="180" alt="Top Languages"/>
   </p>
   
   <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickmrakchi&theme=react&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickmrakchi&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
   </p>
 
   <!-- GitHub Trophy -->
   <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=wickmrakchi&theme=radical&no-frame=true&title=Commits,Issues,PRs,Reviews,Stars,Followers,Multi-language" alt="GitHub Trophy"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=wickmrakchi&theme=radical&no-frame=true" alt="GitHub Trophy"/>
   </p>
 
   <br/>
@@ -122,7 +122,7 @@ const developer = {
   <details>
     <summary><h2>📊 GitHub Activity</h2></summary>
 
-  <img src="https://github-activity-graph.vercel.app/graph?username=wickmrakchi&theme=react&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
+  <img src="https://github-activity-graph.vercel.app/graph?username=wickmrakchi&theme=radical&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
 
   </details>
 
