@@ -14,17 +14,11 @@
 
   <!-- Social Links -->
   <p>
-    <a href="https://github.com/wickmrakchi">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&style=flat" alt="GitHub"/>
-    </a>
     <a href="https://www.instagram.com/mrakchi_5/">
       <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=flat" alt="Instagram"/>
     </a>
     <a href="https://discord.gg/wicks">
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat" alt="Discord"/>
-    </a>
-    <a href="mailto:mrakchi@example.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat" alt="Email"/>
     </a>
   </p>
 
