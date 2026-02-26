@@ -101,7 +101,7 @@ const developer = {
   </details>
 
   <!-- Featured Projects -->
-  <details>
+ <!-- <details>
     <summary><h2>🚀 Featured Projects</h2></summary>
 
 | Project | Description | Tech Stack |
@@ -110,7 +110,7 @@ const developer = {
 | [Project Name](link) | Brief description of the project | HTML, CSS, JavaScript |
 | [Project Name](link) | Brief description of the project | TypeScript, Tailwind |
 
-  </details>
+  </details> -->
 
   <!-- GitHub Activity Graph -->
   <details>
@@ -126,9 +126,9 @@ const developer = {
     <img src="https://komarev.com/ghpvc/?username=wickmrakchi&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views"/>
   </p>
 
-  <p>
+ <!-- <p>
     <em>"First, solve the problem. Then, write the code." – John Johnson</em>
-  </p>
+  </p>  -->
 
   <p align="center">
     <strong>⭐ From wickmrakchi with passion</strong>
