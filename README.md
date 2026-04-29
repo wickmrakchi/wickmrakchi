@@ -8,9 +8,6 @@
 
   <!-- Typing Animation -->
   <br/>
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&pause=1000&color=6366f1&center=true&vCenter=true&width=max-content&lines=Full-Stack+Developer%3BUI%2FUX+Designer%3BOpen-Source+Contributor%3BBuilding+Digital+Experiences" alt="Typing SVG"/>
-  </a>
 
   <!-- Social Links -->
   <p>
