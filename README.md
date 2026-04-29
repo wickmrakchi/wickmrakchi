@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Hero Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hello,%20I'm%20Mrakchi&fontSize=90&animation=fadeIn&fontAlignY=35" width="100%"/>
+  <img src="https://i.ibb.co/BVStht0h/mrkchidev.png" width="100%"/>
 
   <!-- Profile Image with Glow Effect -->
   <img src="https://github.com/wickmrakchi.png" width="150" height="150" style="border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 0 30px rgba(99, 102, 241, 0.5); margin-top: -50px;"/>
