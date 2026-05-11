@@ -18,12 +18,6 @@
       <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&style=flat" alt="Discord"/>
     </a>
   </p>
-
-  <!-- GitHub Stats -->
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=wickmrakchi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1" height="180" alt="GitHub Stats"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickmrakchi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1" height="180" alt="Top Languages"/>
-  </p>
   
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickmrakchi&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
