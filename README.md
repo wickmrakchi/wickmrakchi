@@ -71,7 +71,8 @@ const developer = {
 | English | Professional |
 | French | Intermediate |
 
-      </td>
+
+</td>
       <td valign="top" width="50%">
         
 ### 🛠️ Tech Stack
@@ -91,7 +92,7 @@ const developer = {
   <img src="https://skillicons.dev/icons?i=git,vscode,github,figma,npm,vercel,netlify&perline=7" alt="Tools"/>
 </p>
 
-      </td>
+</td>
     </tr>
   </table>
 
@@ -109,23 +110,11 @@ const developer = {
 
   </details> -->
 
-  <!-- GitHub Activity Graph -->
-  <details>
-    <summary><h2>📊 GitHub Activity</h2></summary>
-
-  <img src="https://github-activity-graph.vercel.app/graph?username=wickmrakchi&theme=radical&bg_color=0d1117&color=6366f1&line=6366f1&point=6366f1&area=true&hide_border=true" alt="Activity Graph"/>
-
-  </details>
-
   <!-- Footer -->
   <br/>
   <p>
     <img src="https://komarev.com/ghpvc/?username=wickmrakchi&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views"/>
   </p>
-
- <!-- <p>
-    <em>"First, solve the problem. Then, write the code." – John Johnson</em>
-  </p>  -->
 
   <p align="center">
     <strong>⭐ From wickmrakchi with passion</strong>
