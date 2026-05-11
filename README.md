@@ -92,20 +92,29 @@ const developer = {
 
   </details>
 
-  <!-- Featured Projects -->
- <!-- <details>
-    <summary><h2>🚀 Featured Projects</h2></summary>
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Project Name](link) | Brief description of the project | React, Node.js, MongoDB |
-| [Project Name](link) | Brief description of the project | HTML, CSS, JavaScript |
-| [Project Name](link) | Brief description of the project | TypeScript, Tailwind |
-
-  </details> -->
-
   <!-- Footer -->
   <br/>
+
+  <details>
+    <summary><h2>🌐 Social Media</h2></summary>
+
+  <table>
+    <tr>
+<p valign="top" width="50%">
+
+[![GitHub](https://img.shields.io/badge/GitHub-wickmrakchi-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/wickmrakchi)
+[![Instagram](https://img.shields.io/badge/Instagram-@mrakchi__5-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/@mrakchi_5)
+[![Discord](https://img.shields.io/badge/Discord-wicks-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wicks)
+[![Email](https://img.shields.io/badge/Email-hessamgrati@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hessamgrati@gmail.com)
+[![PayPal](https://img.shields.io/badge/PayPal-Support%20the%20Project-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/paypalme/Essamgrati)
+
+</p>
+    
+  </table>
+
+  </details>
+
+<br/>
   <p>
     <img src="https://komarev.com/ghpvc/?username=wickmrakchi&style=flat-square&color=6366f1&label=Profile+Views" alt="Profile Views"/>
   </p>
