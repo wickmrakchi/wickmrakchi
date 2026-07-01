@@ -18,9 +18,8 @@
   <p>
     <a href="https://github.com/wickmrakchi"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white&color=181717"/></a>
     <a href="https://www.instagram.com/mrakchi_5/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F"/></a>
-    <a href="https://discord.gg/wicks"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2"/></a>
-    <a href="mailto:mrakchi@example.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=D14836"/></a>
-    <a href="https://www.linkedin.com/in/wickmrakchi"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2"/></a>
+    <a href="https://discord.gg/VyX7RTWxm4"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2"/></a>
+    <a href="mailto:hessamgrati@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=D14836"/></a>
   </p>
 
   <!-- Quick Info Badges -->
@@ -36,29 +35,29 @@
   <!-- ======================== STATS SECTION ======================== -->
   <h2>📊 GitHub Analytics</h2>
 
-  <p align="center">
+  <!-- <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wickmrakchi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickmrakchi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8" height="180" alt="Top Languages"/>
-  </p>
+  </p> -->
 
   <p align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickmrakchi&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
   </p>
 
-  <p align="center">
+  <!-- <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
       <img src="https://github-profile-trophy.vercel.app/?username=wickmrakchi&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
     </a>
-  </p>
+  </p> -->
 
   <!-- Contribution Snake -->
-  <p align="center">
+  <!-- <p align="center">
     <picture>
       <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wickmrakchi/wickmrakchi/output/github-contribution-grid-snake-dark.svg">
       <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wickmrakchi/wickmrakchi/output/github-contribution-grid-snake.svg">
       <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/wickmrakchi/wickmrakchi/output/github-contribution-grid-snake.svg">
     </picture>
-  </p>
+  </p> -->
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -70,7 +69,7 @@
       <td valign="top" width="50%">
 
 ```yaml
-name: Mrakchi
+name: Hamza
 location: Morocco
 occupation: Full-Stack Developer & UI/UX Designer
 languages:
@@ -84,8 +83,8 @@ interests:
   - Automation
 ```
 
-      </td>
-      <td valign="top" width="50%">
+</td>
+<td valign="top" width="50%">
 
 ### 🚀 What I'm up to
 
@@ -96,8 +95,8 @@ interests:
 - 💬 Ask me about **React, Node.js, or anything tech**
 - ⚡ Fun fact: I turn ☕ into code
 
-      </td>
-    </tr>
+</td>
+</tr>
   </table>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -137,50 +136,12 @@ interests:
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-  <!-- ======================== FEATURED PROJECTS ======================== -->
-  <h2>🚀 Featured Projects</h2>
-
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">Project Alpha</h3>
-        <p align="center">
-          <a href="https://github.com/wickmrakchi/project-alpha" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=project-alpha&theme=radical&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide_border=true&show_icons=true" alt="Project Alpha"/>
-          </a>
-          <br/>
-          <em>A modern web application</em>
-        </p>
-      </td>
-      <td width="50%">
-        <h3 align="center">Project Beta</h3>
-        <p align="center">
-          <a href="https://github.com/wickmrakchi/project-beta" target="_blank">
-            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=project-beta&theme=radical&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide_border=true&show_icons=true" alt="Project Beta"/>
-          </a>
-          <br/>
-          <em>Full-stack solution</em>
-        </p>
-      </td>
-    </tr>
-  </table>
-
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
   <!-- ======================== ACTIVITY ======================== -->
   <h2>📈 GitHub Activity Graph</h2>
 
   <p align="center">
     <img src="https://github-activity-graph.vercel.app/graph?username=wickmrakchi&theme=radical&bg_color=0d1117&color=6366f1&line=6366f1&point=a855f7&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=8" width="95%" alt="Activity Graph"/>
   </p>
-
-  <details>
-    <summary><h3>📌 Recent Activity (Click to expand)</h3></summary>
-
-  <!--RECENT_ACTIVITY:start-->
-  <!--RECENT_ACTIVITY:end-->
-
-  </details>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -199,11 +160,8 @@ interests:
   <p>
     If you like what I do, consider supporting me!  
     <br/><br/>
-    <a href="https://www.buymeacoffee.com/wickmrakchi">
-      <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-%23FFDD00.svg?&style=for-the-badge&logo=buy-me-a-coffee&logoColor=black"/>
-    </a>
-    <a href="https://ko-fi.com/wickmrakchi">
-      <img src="https://img.shields.io/badge/Ko--fi-%23FF5E5B.svg?&style=for-the-badge&logo=ko-fi&logoColor=white"/>
+    <a href="https://www.paypal.com/paypalme/Essamgrati">
+      <img src="https://img.shields.io/badge/PayPal-%2300457C.svg?&style=for-the-badge&logo=paypal&logoColor=white"/>
     </a>
   </p>
 
