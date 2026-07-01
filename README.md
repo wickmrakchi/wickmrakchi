@@ -88,8 +88,8 @@ interests:
 
 ### 🚀 What I'm up to
 
-- 🔭 Currently working on **something cool** ✨
-- 🌱 Deep diving into **TypeScript & Next.js**
+- 🔭 Currently working on **WickyX** ✨
+- 🌱 Deep diving into **React Native**
 - 👯 Looking to collaborate on **open-source projects**
 - 🤔 Exploring **Cloud & DevOps**
 - 💬 Ask me about **React, Node.js, or anything tech**
