@@ -173,7 +173,7 @@ interests:
   </p>
 
   <p>
-    <em>💭 "First, solve the problem. Then, write the code." – John Johnson</em>
+    <em>💭 "First, solve the problem. Then, write the code." –</em>
   </p>
 
   <p>
