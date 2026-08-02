@@ -35,79 +35,28 @@
   <!-- ======================== TERMINAL CARD ======================== -->
   <h2>🖥️ /dev/mrakchi</h2>
 
-  <table align="center">
-    <tr>
-      <td style="background:#0d1117; border:1px solid #30363d; border-radius:12px; padding:0;">
-        <div align="left" style="padding:10px 16px; background:#161b22; border-bottom:1px solid #30363d; border-radius:12px 12px 0 0;">
-          <span style="color:#ff5f56; font-size:14px;">●</span>&nbsp;
-          <span style="color:#ffbd2e; font-size:14px;">●</span>&nbsp;
-          <span style="color:#27c93f; font-size:14px;">●</span>&nbsp;&nbsp;
-          <span style="color:#8b949e; font-family:'Fira Code',Consolas,monospace; font-size:13px;">mrakchi@dev: ~ — zsh</span>
-        </div>
-        <pre style="text-align:left; color:#c9d1d9; font-family:'Fira Code',Consolas,monospace; font-size:14px; line-height:1.7; padding:16px 20px; margin:0;"><span style="color:#6366f1">➜</span> <span style="color:#7ee787">whoami</span>
-<span style="color:#8b949e">></span> Hamza <span style="color:#8b949e">|</span> Full-Stack Developer <span style="color:#8b949e">|</span> UI/UX Designer
-<span style="color:#6366f1">➜</span> <span style="color:#7ee787">cat</span> ~/stack.txt
-<span style="color:#8b949e">></span> React <span style="color:#8b949e">·</span> Node.js <span style="color:#8b949e">·</span> TypeScript <span style="color:#8b949e">·</span> Tailwind <span style="color:#8b949e">·</span> PHP <span style="color:#8b949e">·</span> MongoDB
-<span style="color:#6366f1">➜</span> <span style="color:#7ee787">npm run</span> <span style="color:#79c0ff">currently</span>
-<span style="color:#8b949e">></span> building <span style="color:#ffa657">WickyX ✨</span> <span style="color:#8b949e">|</span> learning <span style="color:#ffa657">React Native</span>
-<span style="color:#6366f1">➜</span> <span style="color:#7ee787">curl</span> https://api.mrakchi.dev/hire_me
-<span style="color:#8b949e">></span> <span style="color:#79c0ff">{"available": true, "stack": "Full-Stack", "response_time": "&lt; 24h"}</span>
-<span style="color:#6366f1">➜</span> <span style="color:#8b949e">█</span></pre>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
-
-  <!-- ======================== SKILLS SECTION ======================== -->
-  <h2>📊 Skills & Proficiency</h2>
-
-  <table align="center">
-    <tr>
-      <td width="50%" valign="top">
-
-**🎨 Frontend**
-
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:92%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">JavaScript / TypeScript — 92%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:90%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">React — 90%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:88%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">HTML / CSS / Tailwind — 88%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:80%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">UI/UX Design (Figma) — 80%</div>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Backend & Database**
-
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:88%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">Node.js / Express — 88%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:82%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">MongoDB — 82%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:80%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">MySQL — 80%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:78%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">PHP — 78%</div>
-</div>
-
-</td>
-</tr>
-  </table>
-
-  <br/>
   <p align="center">
-    <img src="https://img.shields.io/badge/🔧-Git%20%26%20GitHub-6366f1?style=for-the-badge&labelColor=0d1117"/>
-    <img src="https://img.shields.io/badge/🚀-Vercel%20%26%20Netlify-6366f1?style=for-the-badge&labelColor=0d1117"/>
-    <img src="https://img.shields.io/badge/📦-REST%20APIs-6366f1?style=for-the-badge&labelColor=0d1117"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=wickmrakchi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&count_private=true&include_all_commits=true&rank_icon=github" height="180" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickmrakchi&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=6366f1&langs_count=8" height="180" alt="Top Languages"/>
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=wickmrakchi&theme=radical&hide_border=true&background=0D1117&stroke=6366f1&ring=6366f1&fire=6366f1&currStreakLabel=6366f1" alt="Streak Stats"/>
+  </p>
+
+  <p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+      <img src="https://github-profile-trophy.vercel.app/?username=wickmrakchi&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=15&margin-h=15" alt="Trophies"/>
+    </a>
+  </p>
+
+  <!-- Contribution Snake -->
+  <p align="center">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wickmrakchi/wickmrakchi/output/github-contribution-grid-snake-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wickmrakchi/wickmrakchi/output/github-contribution-grid-snake.svg">
+      <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/wickmrakchi/wickmrakchi/output/github-contribution-grid-snake.svg">
+    </picture>
   </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
@@ -120,8 +69,8 @@
       <td valign="top" width="50%">
 
 ```yaml
-name: Hamza
-location: Morocco 🇲🇦
+name: Mrakchi
+location: Morocco
 occupation: Full-Stack Developer & UI/UX Designer
 languages:
   - Arabic (Native)
@@ -142,9 +91,9 @@ tools:
 
 ### 🚀 What I'm up to
 
-- 🔭 Currently building **WickyX** ✨
-- 🌱 Deep diving into **React Native**
-- 👯 Open to collaborating on **open-source projects**
+- 🔭 Currently working on **something cool** ✨
+- 🌱 Deep diving into **TypeScript & Next.js**
+- 👯 Looking to collaborate on **open-source projects**
 - 🤔 Exploring **Cloud & DevOps**
 - 💬 Ask me about **React, Node.js, or anything tech**
 - ⚡ Fun fact: I turn ☕ into code
@@ -195,34 +144,46 @@ I'm currently available for **freelance projects** and **collaborations**.
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-  <!-- ======================== SERVICES ======================== -->
-  <h2>💼 What I Can Build For You</h2>
+  <!-- ======================== FEATURED PROJECTS ======================== -->
+  <h2>🚀 Featured Projects</h2>
 
   <table>
     <tr>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🌐-Web_Apps-6366f1?style=for-the-badge&labelColor=0d1117"/><br/>
-        Responsive websites & modern web applications
+      <td width="50%">
+        <h3 align="center">Project Alpha</h3>
+        <p align="center">
+          <a href="https://github.com/wickmrakchi/project-alpha" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=project-alpha&theme=radical&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide_border=true&show_icons=true" alt="Project Alpha"/>
+          </a>
+          <br/>
+          <em>A modern web application</em>
+        </p>
       </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/⚡-REST_APIs-6366f1?style=for-the-badge&labelColor=0d1117"/><br/>
-        Scalable backends & database design
-      </td>
-      <td align="center" width="33%">
-        <img src="https://img.shields.io/badge/🎨-UI%2FUX-6366f1?style=for-the-badge&labelColor=0d1117"/><br/>
-        Pixel-perfect designs from Figma to code
+      <td width="50%">
+        <h3 align="center">Project Beta</h3>
+        <p align="center">
+          <a href="https://github.com/wickmrakchi/project-beta" target="_blank">
+            <img src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=project-beta&theme=radical&bg_color=0d1117&title_color=6366f1&icon_color=6366f1&hide_border=true&show_icons=true" alt="Project Beta"/>
+          </a>
+          <br/>
+          <em>Full-stack solution</em>
+        </p>
       </td>
     </tr>
   </table>
 
   <br/>
   <p align="center">
-    <a href="mailto:hessamgrati@gmail.com">
-      <img src="https://img.shields.io/badge/Start_a_Project-6366f1?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0d1117"/>
-    </a>
+    <img src="https://github-activity-graph.vercel.app/graph?username=wickmrakchi&theme=radical&bg_color=0d1117&color=6366f1&line=6366f1&point=a855f7&area=true&hide_border=true&custom_title=Contribution%20Graph&radius=8" width="95%" alt="Activity Graph"/>
   </p>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+  <details>
+    <summary><h3>📌 Recent Activity (Click to expand)</h3></summary>
+
+  <!--RECENT_ACTIVITY:start-->
+  <!--RECENT_ACTIVITY:end-->
+
+  </details>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -254,7 +215,7 @@ I'm currently available for **freelance projects** and **collaborations**.
   </p>
 
   <p>
-    <em>💭 "First, solve the problem. Then, write the code."</em>
+    <em>💭 "First, solve the problem. Then, write the code." – John Johnson</em>
   </p>
 
   <p>
