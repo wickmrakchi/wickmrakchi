@@ -152,7 +152,7 @@ tools:
 ### 🤝 Let's work together
 
 I'm currently available for **freelance projects** and **collaborations**.
-[📩 Drop me a message](mailto:hessamgrati@gmail.com) and let's build something great.
+[📩 Drop me a message](https://mrakchi.netlify.app/#contact) and let's build something great.
 
 </td>
 </tr>
