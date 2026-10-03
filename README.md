@@ -50,6 +50,8 @@
 <span style="color:#8b949e">></span> React <span style="color:#8b949e">·</span> Node.js <span style="color:#8b949e">·</span> TypeScript <span style="color:#8b949e">·</span> Tailwind <span style="color:#8b949e">·</span> PHP <span style="color:#8b949e">·</span> MongoDB
 <span style="color:#6366f1">➜</span> <span style="color:#7ee787">npm run</span> <span style="color:#79c0ff">currently</span>
 <span style="color:#8b949e">></span> building <span style="color:#ffa657">WickyX ✨</span> <span style="color:#8b949e">|</span> learning <span style="color:#ffa657">React Native</span>
+<span style="color:#6366f1">➜</span> <span style="color:#7ee787">ls</span> ~/projects
+<span style="color:#8b949e">></span> mrakchi-web <span style="color:#8b949e">·</span> company-dashboard <span style="color:#8b949e">·</span> MERN-Auth-v2 <span style="color:#8b949e">·</span> discord-bot-feedback
 <span style="color:#6366f1">➜</span> <span style="color:#7ee787">curl</span> https://api.mrakchi.dev/hire_me
 <span style="color:#8b949e">></span> <span style="color:#79c0ff">{"available": true, "stack": "Full-Stack", "response_time": "&lt; 24h"}</span>
 <span style="color:#6366f1">➜</span> <span style="color:#8b949e">█</span></pre>
@@ -59,56 +61,57 @@
 
   <br/>
 
-  <!-- ======================== SKILLS SECTION ======================== -->
-  <h2>📊 Skills & Proficiency</h2>
+  <!-- ======================== GITHUB STATS ======================== -->
+  <h2>📊 GitHub Stats</h2>
 
   <table align="center">
     <tr>
-      <td width="50%" valign="top">
-
-**🎨 Frontend**
-
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:92%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">JavaScript / TypeScript — 92%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:90%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">React — 90%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:88%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">HTML / CSS / Tailwind — 88%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:80%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">UI/UX Design (Figma) — 80%</div>
-</div>
-
-</td>
-<td width="50%" valign="top">
-
-**⚙️ Backend & Database**
-
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:88%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">Node.js / Express — 88%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:82%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">MongoDB — 82%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:80%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">MySQL — 80%</div>
-</div>
-<div style="background:#161b22;border-radius:8px;height:24px;margin:6px 0;width:100%;">
-  <div style="width:78%;background:linear-gradient(90deg,#6366f1,#a855f7);border-radius:8px;height:24px;line-height:24px;padding-left:10px;color:#ffffff;font-size:13px;font-weight:600;text-align:left;font-family:'Fira Code',Consolas,monospace;">PHP — 78%</div>
-</div>
-
-</td>
-</tr>
+      <td align="center" width="34%">
+        <img src="https://github-readme-stats.vercel.app/api?username=wickmrakchi&show_icons=true&include_all_commits=true&rank_icon=github&border_radius=16&theme=radical&hide_border=true" alt="GitHub Stats"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wickmrakchi&layout=compact&langs_count=8&border_radius=16&theme=radical&hide_border=true" alt="Top Languages"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://streak-stats.demolab.com?user=wickmrakchi&theme=radical&hide_border=true" alt="GitHub Streak"/>
+      </td>
+    </tr>
   </table>
 
   <br/>
-  <p align="center">
-    <img src="https://img.shields.io/badge/🔧-Git%20%26%20GitHub-6366f1?style=for-the-badge&labelColor=0d1117"/>
-    <img src="https://img.shields.io/badge/🚀-Vercel%20%26%20Netlify-6366f1?style=for-the-badge&labelColor=0d1117"/>
-    <img src="https://img.shields.io/badge/📦-REST%20APIs-6366f1?style=for-the-badge&labelColor=0d1117"/>
-  </p>
+
+  <!-- Contribution Graph -->
+  <h3>🐍 Contribution Graph</h3>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="dist/contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="dist/contribution-graph.svg">
+    <img alt="wickmrakchi's contribution graph" src="dist/contribution-graph.svg"/>
+  </picture>
+
+  <br/>
+
+  <!-- Activity Graph -->
+  <h3>📈 Activity</h3>
+  <img src="https://github-activity-graph.vercel.app/graph?username=wickmrakchi&theme=react&hide_border=true&hide_title=true&area=true&point_size=1.6&order_area=true" width="90%" alt="Activity Graph"/>
+
+  <br/>
+
+  <!-- Achievements -->
+  <h3>🏆 Achievements</h3>
+
+  <table align="center">
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=wickmrakchi&theme=radical" alt="Productive Time"/>
+      </td>
+      <td align="center" width="34%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=wickmrakchi&theme=radical" alt="Profile Details"/>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=wickmrakchi&theme=radical" alt="Repos Per Language"/>
+      </td>
+    </tr>
+  </table>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -135,6 +138,11 @@ tools:
   - React · Node.js · Express · Tailwind
   - MongoDB · MySQL
   - Git · Figma · Vercel · Netlify
+focus_areas:
+  - Web Applications
+  - API Architecture
+  - Discord Bots
+  - UI/UX Systems
 ```
 
 </td>
@@ -152,11 +160,49 @@ tools:
 ### 🤝 Let's work together
 
 I'm currently available for **freelance projects** and **collaborations**.
-[📩 Drop me a message](mailto:hessamgrati@gmail.com) and let's build something great.
+[📩 Drop me a message](https://mrakchi.netlify.app/#contact) and let's build something great.
 
 </td>
 </tr>
   </table>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+  <!-- ======================== FEATURED PROJECTS ======================== -->
+  <h2>🚀 Featured Projects</h2>
+
+  <table align="center">
+    <tr>
+      <td align="center" width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=mrakchi-web&theme=radical&hide_border=true" alt="mrakchi-web"/><br/>
+        <strong>🌐 mrakchi-web</strong><br/>
+        <em>Portfolio &amp; services platform — designed and built from scratch.</em>
+      </td>
+      <td align="center" width="50%" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=company-dashboard&theme=radical&hide_border=true" alt="company-dashboard"/><br/>
+        <strong>🏢 company-dashboard</strong><br/>
+        <em>Operations dashboard: clients, staff, payments &amp; logs.</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=discord-bot-feedback&theme=radical&hide_border=true" alt="discord-bot-feedback"/><br/>
+        <strong>🤖 discord-bot-feedback</strong><br/>
+        <em>Discord.js v14 bot for structured in-server feedback.</em>
+      </td>
+      <td align="center" valign="top">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=MERN-Auth-v2&theme=radical&hide_border=true" alt="MERN-Auth-v2"/><br/>
+        <strong>🔐 MERN-Auth-v2</strong><br/>
+        <em>Full MERN authentication system with JWT &amp; protected routes.</em>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
+  <p align="center">
+    <a href="https://github.com/wickmrakchi?tab=repositories"><img src="https://img.shields.io/badge/Explore_All_Repositories-6366f1?style=for-the-badge&labelColor=0d1117&logo=github"/></a>
+  </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
@@ -171,12 +217,14 @@ I'm currently available for **freelance projects** and **collaborations**.
     <img src="https://img.shields.io/badge/TypeScript-%233178C6.svg?&style=for-the-badge&logo=typescript&logoColor=white"/>
     <img src="https://img.shields.io/badge/React-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
     <img src="https://img.shields.io/badge/Tailwind_CSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+    <img src="https://img.shields.io/badge/React_Native-%2320242A.svg?&style=for-the-badge&logo=react&logoColor=61DAFB"/>
   </p>
 
   <h3>⚙️ Backend & Database</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-%23339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/Express-%23000000.svg?&style=for-the-badge&logo=express&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Discord.js-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white"/>
     <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
     <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
     <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
@@ -224,8 +272,6 @@ I'm currently available for **freelance projects** and **collaborations**.
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
-
   <!-- ======================== QUOTE ======================== -->
   <h2>💡 Dev Quote of the Day</h2>
 
@@ -234,6 +280,34 @@ I'm currently available for **freelance projects** and **collaborations**.
   </p>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+  <!-- ======================== CONTACT ======================== -->
+  <h2>📬 Let's Build Something</h2>
+
+  <table align="center">
+    <tr>
+      <td align="center" width="33%">
+        <a href="mailto:hessamgrati@gmail.com">
+          <img src="https://img.shields.io/badge/Email-hessamgrati@gmail.com-6366f1?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117"/>
+        </a><br/>
+        <sub>Fastest way to reach me</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://discord.gg/VyX7RTWxm4">
+          <img src="https://img.shields.io/badge/Discord-Join_my_server-6366f1?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117"/>
+        </a><br/>
+        <sub>Chat &amp; collaborate</sub>
+      </td>
+      <td align="center" width="33%">
+        <a href="https://www.instagram.com/mrakchi_5/">
+          <img src="https://img.shields.io/badge/Instagram-@mrakchi_5-6366f1?style=for-the-badge&logo=instagram&logoColor=white&labelColor=0d1117"/>
+        </a><br/>
+        <sub>Behind the scenes</sub>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
 
   <!-- ======================== SUPPORT ======================== -->
   <h2>☕ Support My Work</h2>
