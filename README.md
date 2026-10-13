@@ -51,7 +51,7 @@
 <span style="color:#6366f1">➜</span> <span style="color:#7ee787">npm run</span> <span style="color:#79c0ff">currently</span>
 <span style="color:#8b949e">></span> building <span style="color:#ffa657">WickyX ✨</span> <span style="color:#8b949e">|</span> learning <span style="color:#ffa657">React Native</span>
 <span style="color:#6366f1">➜</span> <span style="color:#7ee787">ls</span> ~/projects
-<span style="color:#8b949e">></span> mrakchi-web <span style="color:#8b949e">·</span> company-dashboard <span style="color:#8b949e">·</span> MERN-Auth-v2 <span style="color:#8b949e">·</span> discord-bot-feedback
+<span style="color:#8b949e">></span> mrakchi-web <span style="color:#8b949e">·</span> company-dashboard <span style="color:#8b949e">·</span> MERN-Auth <span style="color:#8b949e">·</span> discord-bot-feedback
 <span style="color:#6366f1">➜</span> <span style="color:#7ee787">curl</span> https://api.mrakchi.dev/hire_me
 <span style="color:#8b949e">></span> <span style="color:#79c0ff">{"available": true, "stack": "Full-Stack", "response_time": "&lt; 24h"}</span>
 <span style="color:#6366f1">➜</span> <span style="color:#8b949e">█</span></pre>
@@ -191,8 +191,8 @@ I'm currently available for **freelance projects** and **collaborations**.
         <em>Discord.js v14 bot for structured in-server feedback.</em>
       </td>
       <td align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=MERN-Auth-v2&theme=radical&hide_border=true" alt="MERN-Auth-v2"/><br/>
-        <strong>🔐 MERN-Auth-v2</strong><br/>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=wickmrakchi&repo=MERN-Auth&theme=radical&hide_border=true" alt="MERN-Auth"/><br/>
+        <strong>🔐 MERN-Auth</strong><br/>
         <em>Full MERN authentication system with JWT &amp; protected routes.</em>
       </td>
     </tr>
