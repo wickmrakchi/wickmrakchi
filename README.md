@@ -80,7 +80,7 @@
 
   <br/>
 
-  <!-- Contribution Graph -->
+  <!-- Contribution Graph 
   <h3>🐍 Contribution Graph</h3>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="dist/contribution-graph-dark.svg">
@@ -88,7 +88,7 @@
     <img alt="wickmrakchi's contribution graph" src="dist/contribution-graph.svg"/>
   </picture>
 
-  <br/>
+  <br/> -->
 
   <!-- Activity Graph -->
   <h3>📈 Activity</h3>
