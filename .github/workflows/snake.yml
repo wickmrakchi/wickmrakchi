@@ -8,10 +8,20 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: contribution-graph
+  cancel-in-progress: true
+
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 10
     steps:
+      # Without this step there is no git repository in the runner,
+      # which caused: "fatal: not a git repository".
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
       - name: Generate snake SVG
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,7 +33,7 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit generated files
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v6
         with:
           commit_message: "chore: update contribution graph"
           file_pattern: "dist/*.svg"
