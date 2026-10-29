@@ -20,6 +20,9 @@
     <a href="https://www.instagram.com/mrakchi_5/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=E4405F"/></a>
     <a href="https://discord.gg/VyX7RTWxm4"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?&style=for-the-badge&logo=discord&logoColor=white&color=5865F2"/></a>
     <a href="mailto:hessamgrati@gmail.com"><img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=D14836"/></a>
+    <a href="https://www.npmjs.com/~mrakchi">
+  <img src="https://img.shields.io/badge/npm-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="npm"/>
+</a>
   </p>
 
   <p>
